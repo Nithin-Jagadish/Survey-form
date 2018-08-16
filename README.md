@@ -1,4 +1,4 @@
 # Survey-form
 
 Click the following link to view the "Survey Form".
-https://rawgit.com/Nithin-Jagadish/Survey-form/master/index.html
+https://rawgit.com/Nithin-Jagadish/Web-page_Survey-form/master/index.html
